@@ -1,0 +1,2114 @@
+[
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-66252825763",
+    "sku": "66252825763",
+    "title": "Radnor® 4 1/2\" X 1/4\" X 5/8\" - 11 Radnor® 24 Grit Aluminum Oxide Type 27 Depressed Center Grinding Wheel",
+    "brand": "Radnor®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 742.97,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "1/4\"",
+      "arbor": "5/8\" - 11",
+      "grit": "24",
+      "material": "Aluminum Oxide",
+      "wheel_type": "Type 27 Depressed Center",
+      "abrasive_type": "Grinding Wheel",
+      "max_rpm": "13580.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-66252823715",
+    "sku": "66252823715",
+    "title": "Radnor® 6\" X .040\" X 7/8\" Radnor® 60 Grit Aluminum Oxide Reinforced Type 1 Cut Off Wheel",
+    "brand": "Radnor®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 521.08,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": ".040\"",
+      "arbor": "7/8\"",
+      "grit": "60",
+      "material": "Aluminum Oxide",
+      "wheel_type": "Type 1",
+      "abrasive_type": "Cut Off Wheel",
+      "max_rpm": "10185.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66252938855",
+    "sku": "66252938855",
+    "title": "Norton® 7\" X 1/8\" X 5/8\" - 11 NORZON PLUS™ 24 Grit Ceramic Alumina/Zirconia Alumina  Reinforced Type 27 Depressed Center Cut Off Wheel",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 714.78,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "7\"",
+      "thickness": "1/8\"",
+      "arbor": "5/8\" - 11",
+      "grit": "24",
+      "material": "Ceramic Alumina | Zirconia Alumina ",
+      "wheel_type": "Type 27 Depressed Center",
+      "abrasive_type": "Cut Off Wheel",
+      "max_rpm": "7640.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66252843326",
+    "sku": "66252843326",
+    "title": "Norton® 4\" X 1/4\" X 5/8\" - 11 NORZON PLUS™ 24 Grit Ceramic Alumina/Zirconia Alumina  Type 27 Depressed Center Grinding Wheel",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 579.02,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4\"",
+      "thickness": "1/4\"",
+      "arbor": "5/8\" - 11",
+      "grit": "24",
+      "material": "Ceramic Alumina | Zirconia Alumina ",
+      "wheel_type": "Type 27 Depressed Center",
+      "abrasive_type": "Grinding Wheel",
+      "max_rpm": "13580.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-F1207",
+    "sku": "F1207",
+    "title": "FlexOVit™ 4 1/2\" X .045\" X 7/8\" Razorblade® 60 Grit Aluminum Oxide Reinforced Type 1 Cut Off Wheel",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 556.37,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": ".045\"",
+      "arbor": "7/8\"",
+      "grit": "60",
+      "material": "Aluminum Oxide",
+      "wheel_type": "Type 1",
+      "abrasive_type": "Cut Off Wheel",
+      "max_rpm": "13300.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-60410011617",
+    "sku": "60410011617",
+    "title": "3M™ 4 1/2\" X 1/4\" X 5/8\" - 11 Cubitron™ II 36 Grit Ceramic Aluminum Oxide Type 27 Depressed Center Grinding Wheel",
+    "brand": "3M™",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 686.45,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "1/4\"",
+      "arbor": "5/8\" - 11",
+      "grit": "36",
+      "material": "Ceramic Aluminum Oxide",
+      "wheel_type": "Type 27 Depressed Center",
+      "abrasive_type": "Grinding Wheel",
+      "max_rpm": "13300.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/carborundum-05539504711",
+    "sku": "05539504711",
+    "title": "Carborundum® 7\" X 1/8\" X 5/8\" - 11 PREMIER RED™ 24 Grit Aluminum Oxide Type 27 Depressed Center Grinding Wheel",
+    "brand": "Carborundum®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 429.83,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "7\"",
+      "thickness": "1/8\"",
+      "arbor": "5/8\" - 11",
+      "grit": "24",
+      "material": "Aluminum Oxide",
+      "wheel_type": "Type 27 Depressed Center",
+      "abrasive_type": "Grinding Wheel",
+      "max_rpm": "8600.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-22021",
+    "sku": "22021",
+    "title": "United Abrasives 4 1/2\" X .045\" X 7/8\" SAIT 60 Grit Aluminum Oxide Type 27 Depressed Center Cut Off Wheel",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 590.88,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": ".045\"",
+      "arbor": "7/8\"",
+      "grit": "60",
+      "material": "Aluminum Oxide",
+      "wheel_type": "Type 27 Depressed Center",
+      "abrasive_type": "Cut Off Wheel",
+      "max_rpm": "13300.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66252843187",
+    "sku": "66252843187",
+    "title": "Norton® 9\" X 1/8\" X 5/8\" - 11 BlueFire™ 30 Grit Zirconia Alumina Type 27 Depressed Center Combination Wheel",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 330.06,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "9\"",
+      "thickness": "1/8\"",
+      "arbor": "5/8\" - 11",
+      "grit": "30",
+      "material": "Zirconia Alumina",
+      "wheel_type": "Type 27 Depressed Center",
+      "abrasive_type": "Combination Wheel",
+      "max_rpm": "6600.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66252838465",
+    "sku": "66252838465",
+    "title": "Norton® 6\" X 1/16\" X 7/8\" Quantum3 RightCut Coarse Grit Aluminum Oxide Type 01/41 Right Angle Cut Off Wheel",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 754.29,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": "1/16\"",
+      "arbor": "7/8\"",
+      "grit": "Coarse",
+      "material": "Aluminum Oxide",
+      "wheel_type": "Type 01/41",
+      "abrasive_type": "Right Angle Cut Off Wheel",
+      "max_rpm": "10185.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66252809563",
+    "sku": "66252809563",
+    "title": "Norton® 6\" 16 Grit Extra Coarse Aluminum Oxide Snagging Wheel",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 539.53,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": "",
+      "arbor": "5/8\"",
+      "grit": "16",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Snagging Wheel",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66253198584",
+    "sku": "66253198584",
+    "title": "Norton® 6\" 16 Grit Very Coarse Zirconia Alumina Snagging Wheel",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 615.92,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": "2\"",
+      "arbor": "5/8\"-11",
+      "grit": "16",
+      "material": "Zirconia Alumina",
+      "wheel_type": "",
+      "abrasive_type": "Snagging Wheel",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-N6250",
+    "sku": "N6250",
+    "title": "FlexOVit™ 6\" 16 Grit Medium/Fine Aluminum Oxide Cup Stone",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 448.53,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": "",
+      "arbor": "5/8\"-11",
+      "grit": "16",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Cup Stone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-26010",
+    "sku": "26010",
+    "title": "United Abrasives 5\" 16 Grit Coarse Aluminum Oxide Cup Stone",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 723.68,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "5/8\"-11",
+      "grit": "16",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Cup Stone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-N2231",
+    "sku": "N2231",
+    "title": "FlexOVit™ 1 1/2\" X 3\" X 3/8\" - 24 Type 18R A24RB Grit HIGH PERFORMANCE™ Aluminum Oxide Plug",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 147.64,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "A24RB",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Plug",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-N0432",
+    "sku": "N0432",
+    "title": "FlexOVit™ 2\" X 3\" X 5/8\" - 11 Type 16 A24RB Grit HIGH PERFORMANCE™ Aluminum Oxide Cone",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 404.91,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "A24RB",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Cone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-N0742",
+    "sku": "N0742",
+    "title": "FlexOVit™ 2 3/4\" X 3 1/2\" X 5/8\" - 11 Type 16 A24RB Grit HIGH PERFORMANCE™ Aluminum Oxide Cone",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 15.09,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "A24RB",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Cone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-61463616465",
+    "sku": "61463616465",
+    "title": "Norton® 1/2\" X 2\" X .025\" W189 24 Grit NORZON® Zirconia Alumina Mounted Point",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 257.69,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "24",
+      "material": "Zirconia Alumina",
+      "wheel_type": "",
+      "abrasive_type": "Mounted Point",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-61463685605",
+    "sku": "61463685605",
+    "title": "Norton® 2\" X 5\" MB35 Medium Grit India® Aluminum Oxide Bench Stone",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 160.19,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "0625\"",
+      "arbor": "",
+      "grit": "Medium",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Bench Stone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-61463686550",
+    "sku": "61463686550",
+    "title": "Norton® 3/4\" X 6\" MF266 Medium Grit India® Aluminum Oxide Sharpening Stone",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 788.39,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "Medium",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Sharpening Stone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-61463687830",
+    "sku": "61463687830",
+    "title": "Norton® 2\" X 8\" MB35 Extra Coarse Grit Crystolon® Silicon Carbide Sharpening Stone",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 136.11,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "2\"",
+      "arbor": "",
+      "grit": "Extra Coarse",
+      "material": "Silicon Carbide",
+      "wheel_type": "",
+      "abrasive_type": "Sharpening Stone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-61463616463",
+    "sku": "61463616463",
+    "title": "Norton® 7/8\" X 2\" X 1/4\" A11 24 Grit NORZON® Zirconia Alumina Mandrel Mounted Point",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 70.57,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "24",
+      "material": "Zirconia Alumina",
+      "wheel_type": "",
+      "abrasive_type": "Mounted Point",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-61463622218",
+    "sku": "61463622218",
+    "title": "Norton® 2\" X 3\" X 5/8\" - 11 Type 16 24 Grit GEMINI® Aluminum Oxide Abrasive Cone",
+    "brand": "Norton®",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 319.07,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "24",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Cone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-26060",
+    "sku": "26060",
+    "title": "United Abrasives 6\" X 5/8\" - 11 Type 11 Coarse Grit SAIT Zirconia Alumina Cup Stone",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 442.0,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "2\"",
+      "arbor": "",
+      "grit": "Coarse",
+      "material": "Zirconia Alumina",
+      "wheel_type": "",
+      "abrasive_type": "Cup Stone",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-25020",
+    "sku": "25020",
+    "title": "United Abrasives 2\" X 6\" HR241 C24R Grit SAIT Aluminum Oxide Hand Rub",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Bonded Abrasives"
+    ],
+    "price": 297.38,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "2\"",
+      "arbor": "",
+      "grit": "C24R",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Hand Rub",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-32251",
+    "sku": "32251",
+    "title": "FlexOVit™ 7\" Dia X 7/8\" Arbor 100 Grit FlexOVit™ Aluminum Oxide Resin Bond Fiber Disc",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 59.88,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "7\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "100",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Fiber Disc",
+      "max_rpm": "5000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-52814",
+    "sku": "52814",
+    "title": "United Abrasives 5\" Dia X 7/8\" Arbor 100 Grit Sait® Aluminum Oxide Resin Bond Fiber Disc",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 636.85,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "100",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Fiber Disc",
+      "max_rpm": "5000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-66261086304",
+    "sku": "66261086304",
+    "title": "RADNOR® 4 1/2\" Dia X 7/8\" Arbor 80 Grit F826 RADNOR® Zirconia Plus Fiber Disc",
+    "brand": "RADNOR®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 578.72,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "80",
+      "material": "Zirconia Plus",
+      "wheel_type": "",
+      "abrasive_type": "Fiber Disc",
+      "max_rpm": "10000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66261123580",
+    "sku": "66261123580",
+    "title": "Norton® 6\" Dia 40 Grit H875 VAC NORZON PLUS™ Zirconia Alumina Open Coat PSA Disc",
+    "brand": "Norton®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 552.32,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "40",
+      "material": "Zirconia Alumina",
+      "wheel_type": "",
+      "abrasive_type": "PSA Disc",
+      "max_rpm": "10000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/standard-abrasives-67000001395",
+    "sku": "67000001395",
+    "title": "Standard Abrasives™ 9\" Dia 80 Grit Standard Abrasives™ Aluminum Oxide Resin Bond PSA Disc",
+    "brand": "Standard Abrasives™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 442.39,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "9\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "80",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "PSA Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-7000000249",
+    "sku": "7000000249",
+    "title": "3M™ 5\" Dia 60 Grit Stikit™ 341D Aluminum Oxide Cloth Disc Roll",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 247.66,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "60",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Cloth Disc Roll",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-7000118086",
+    "sku": "7000118086",
+    "title": "3M™ 6\" Dia 80 Grit Stikit™ Aluminum Oxide Green Paper Disc Roll",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 237.68,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "80",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Paper Disc Roll",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-7000118110",
+    "sku": "7000118110",
+    "title": "3M™ 5\" Dia P320 Grit 3M™/Stikit™ 216U Aluminum Oxide Gold PSA Disc Roll",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 541.42,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "P320",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "PSA Disc Roll",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-7000118888",
+    "sku": "7000118888",
+    "title": "3M™ 20\" Dia 36 Grit 3M™ Aluminum Oxide Cloth Disc",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 406.33,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "20\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "36",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Cloth Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-7000119431",
+    "sku": "7000119431",
+    "title": "3M™ 5\" Dia P320 Grit Hookit™ Aluminum Oxide Gold Film Disc",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 685.11,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "P320",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Film Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-7100044448",
+    "sku": "7100044448",
+    "title": "3M™ 5\" Dia 80+ Grit 3M™/Cubitron™ II/Hookit™ Precision Shaped Ceramic Paper Disc",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 412.44,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "80+",
+      "material": "Precision Shaped Ceramic",
+      "wheel_type": "",
+      "abrasive_type": "Paper Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-7100045902",
+    "sku": "7100045902",
+    "title": "3M™ 5\" Dia 120+ Grit Cubitron™ II/Stickit™ 775L Precision Shaped Ceramic Film Disc Roll",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 759.22,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "120+",
+      "material": "Precision Shaped Ceramic",
+      "wheel_type": "",
+      "abrasive_type": "Film Disc Roll",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-7100122799",
+    "sku": "7100122799",
+    "title": "3M™ 6\" Dia P2000 Grit 3M™/Hookit™ Aluminum Oxide Purple Film Disc",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 685.37,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "P2000",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Film Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/merit-8834173163",
+    "sku": "8834173163",
+    "title": "Merit® 20\" Dia 36 Grit Shur-Stik® Aluminum Oxide Resin Bond PSA Disc",
+    "brand": "Merit®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 286.79,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "20\"",
+      "thickness": "",
+      "arbor": "No Hole",
+      "grit": "36",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "PSA Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-63642536257",
+    "sku": "63642536257",
+    "title": "Radnor® 4 1/2\" X 5/8\" - 11 40 Grit Type 27 Fine Grade Flap Disc",
+    "brand": "Radnor®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 83.81,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "5/8\" - 11",
+      "grit": "40",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "13300.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-63642536254",
+    "sku": "63642536254",
+    "title": "Radnor® 4 1/2\" X 7/8\" 40 Grit Type 27 Flap Disc",
+    "brand": "Radnor®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 445.69,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "40",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "12000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-63642504878",
+    "sku": "63642504878",
+    "title": "Norton® RED HEAT®/TWINSTAR® 4 1/2\" X 7/8\" 60 Grit Type 27 Coarse Grade Flap Disc",
+    "brand": "Norton®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 731.85,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "60",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "13300.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66254461066",
+    "sku": "66254461066",
+    "title": "Norton® Blaze® 7\" X 5/8\" - 11 40 Grit Type 27 Flap Disc",
+    "brand": "Norton®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 770.42,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "7\"",
+      "thickness": "",
+      "arbor": "5/8\" - 11",
+      "grit": "40",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "8600.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-Z4500F",
+    "sku": "Z4500F",
+    "title": "FlexOVit® ZIRCOTEX®  4 1/2\" X 7/8\" 40 Grit Type 29 Flap Disc",
+    "brand": "FlexOVit®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 237.69,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "40",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "13300.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-60440097867",
+    "sku": "60440097867",
+    "title": "3M™ Cubitron™ 4 1/2\" X 7/8\" 40 Grit Type 27 Flap Disc",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 766.09,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "40",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "13300.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/merit-08834195073",
+    "sku": "08834195073",
+    "title": "Merit PowerFlex 7\" X 5/8\" - 11 36 Grit Type 27 Flap Disc",
+    "brand": "Merit",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 396.86,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "7\"",
+      "thickness": "",
+      "arbor": "5/8\" - 11",
+      "grit": "36",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "8600.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-78006",
+    "sku": "78006",
+    "title": "United Abrasives Ovation® 4 1/2\" X 7/8\" 40 Grit Type 27 Flap Disc",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 423.77,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "40",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "13300.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/weiler-50914",
+    "sku": "50914",
+    "title": "Weiler® BobCat™ 3\" X 1/4\" 60 Grit Type 27 Flap Disc",
+    "brand": "Weiler®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 202.98,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "3\"",
+      "thickness": "",
+      "arbor": "1/4\"",
+      "grit": "60",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": "20000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-60600142727",
+    "sku": "60600142727",
+    "title": "3M™ 25\" W X 60\" L Trizact™ 237AA Fine 30 Grit Aluminum Oxide Cloth Belt",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 245.19,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "30",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-60420006987",
+    "sku": "60420006987",
+    "title": "3M™ 1/4\" W X 24\" L Cubitron™ 777F Medium 60 Grit Ceramic Cloth Belt",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 277.0,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "60",
+      "material": "Ceramic",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66261043757",
+    "sku": "66261043757",
+    "title": "Norton® 1/2\" W X 24\" L Blaze® R980P Coarse 50 Grit Ceramic Alumina File Belt",
+    "brand": "Norton®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 679.28,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "50",
+      "material": "Ceramic Alumina",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-07660700969",
+    "sku": "07660700969",
+    "title": "Norton® 3'' W X 18'' L Adalox® R215 Very Fine 120 Grit Aluminum Oxide Portable Belt",
+    "brand": "Norton®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 601.74,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "120",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-R1245C",
+    "sku": "R1245C",
+    "title": "FlexOVit™ 4\" W X 36\" L FlexOVit™ A80 Fine 80 Grit Aluminum Oxide Portable Belt",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 244.69,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "80",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-64089",
+    "sku": "64089",
+    "title": "United Abrasives 1/2\" W X 24\" L Quick Ship™ Z-H Medium 60 Grit Zirconia Aluminum Belt",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 544.2,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "60",
+      "material": "Zirconia Aluminum",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-7660701742",
+    "sku": "7660701742",
+    "title": "Norton® 3\" W X 24\" L Adalox®/Metalite® R215/R255 Coarse 50 Grit Aluminum Oxide Cloth Portable Belt",
+    "brand": "Norton®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 678.32,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "50",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-60440206963",
+    "sku": "60440206963",
+    "title": "3M™ 3\" 36 Grit Very Coarse Roloc™ Cubitron™ 983C Fiber Disc",
+    "brand": "3M™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 96.8,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "3\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "36",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "Fiber Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-PC500",
+    "sku": "PC500",
+    "title": "FlexOVit® 2\" 40 Grit Coarse Flap Wheel",
+    "brand": "FlexOVit®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 614.5,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "2\"",
+      "thickness": "",
+      "arbor": "",
+      "grit": "40",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "Flap Wheel",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/merit-8834154155",
+    "sku": "8834154155",
+    "title": "Merit® 4\" 80 Grit Medium B-820 Bore Polisher",
+    "brand": "Merit®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 203.3,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "80",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "Bore Polisher",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66254468390",
+    "sku": "66254468390",
+    "title": "Norton® 4 1/2\" 36 Grit Coarse Blaze® Fiber Disc",
+    "brand": "Norton®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 58.86,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "36",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "Fiber Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/standard-abrasives-66000009853",
+    "sku": "66000009853",
+    "title": "Standard Abrasives™ 5\" 36 Grit Coarse Fiber Disc",
+    "brand": "Standard Abrasives™",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 343.22,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "7/8\"",
+      "grit": "36",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "Fiber Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-70050",
+    "sku": "70050",
+    "title": "United Abrasives 2\" 60 Grit Coarse Flap Wheel",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 772.17,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "2\"",
+      "thickness": "",
+      "arbor": "",
+      "grit": "60",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "Flap Wheel",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/merit-8834168444",
+    "sku": "8834168444",
+    "title": "Merit® 2\" 50 Grit Coarse PowerLock®/Zirc Plus R203 Cloth Disc",
+    "brand": "Merit®",
+    "category_path": [
+      "Coated Abrasives"
+    ],
+    "price": 657.72,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "2\"",
+      "thickness": "",
+      "arbor": "",
+      "grit": "50",
+      "material": "",
+      "wheel_type": "",
+      "abrasive_type": "Cloth Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66261055311",
+    "sku": "66261055311",
+    "title": "Norton® 1/2\" X 18\" Very Fine Grade Aluminum Oxide Bear-Tex® STE File Belt",
+    "brand": "Norton®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 411.33,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "File Belt",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-66623375310",
+    "sku": "66623375310",
+    "title": "Radnor® 4 1/2\" X 5/8\" - 11 Coarse/Extra Coarse Grade Silicon Carbide Radnor® Surface Preparation Disc",
+    "brand": "Radnor®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 391.18,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Silicon Carbide",
+      "wheel_type": "",
+      "abrasive_type": "Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-66623375312",
+    "sku": "66623375312",
+    "title": "Radnor® 6\" X 9\" Fine/Medium Grade Aluminum Oxide Radnor® Hand Pad",
+    "brand": "Radnor®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 657.1,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Hand Pad",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66261009585",
+    "sku": "66261009585",
+    "title": "Norton® 4 1/2\" X 5/8\" - 11 36 - 50 Grit Extra Coarse Grade Silicon Carbide Bear-Tex® Rapid Strip™ Depressed Center Disc",
+    "brand": "Norton®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 755.18,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "36 - 50",
+      "material": "Silicon Carbide",
+      "wheel_type": "",
+      "abrasive_type": "Disc",
+      "max_rpm": "12000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66261096557",
+    "sku": "66261096557",
+    "title": "Norton® 3\" X 1/2\" 24 - 36 Grit Extra Coarse Grade Ceramic Alumina Blaze® Rapid Strip™ Abrasive Disc",
+    "brand": "Norton®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 345.15,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "24 - 36",
+      "material": "Ceramic Alumina",
+      "wheel_type": "",
+      "abrasive_type": "Abrasive Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-H0405A",
+    "sku": "H0405A",
+    "title": "FlexOVit™ 6\" X 9\" Extra Cut Grade Silicon Carbide FlexOVit™ Hand Pad",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 643.82,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Silicon Carbide",
+      "wheel_type": "",
+      "abrasive_type": "Hand Pad",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-61500292711",
+    "sku": "61500292711",
+    "title": "3M™ 4\" X No Hole Coarse Grade Ceramic Scotch-Brite™ ROLOC™ Light Grinding And Blending Disc",
+    "brand": "3M™",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 436.67,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Ceramic ",
+      "wheel_type": "",
+      "abrasive_type": "Disc",
+      "max_rpm": "12000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/merit-8834166319",
+    "sku": "8834166319",
+    "title": "Merit® 3\" Coarse Grade Aluminum Oxide Power-Lock Type II Type XC Sufrace Preparation Disc",
+    "brand": "Merit®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 92.7,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Disc",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/weiler-51444",
+    "sku": "51444",
+    "title": "Weiler® 6\" X 9\" Coarse/Medium Grade Aluminum Oxide Weiler® Hand Pad",
+    "brand": "Weiler®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 495.7,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Hand Pad",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/standard-abrasives-66000044157",
+    "sku": "66000044157",
+    "title": "Standard Abrasives™ 3\" X 1/4\" X 2\" 60 Grit Medium Grade Aluminum Oxide Standard Abrasives™ Buff And Blend Combination Wheel",
+    "brand": "Standard Abrasives™",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 225.43,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "60",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Combination Wheel",
+      "max_rpm": "12000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-77890",
+    "sku": "77890",
+    "title": "United Abrasives 4 1/2\" X 7/8\" Medium Grade Aluminum Oxide Series 821 Type 27 Unitized Wheel",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 55.92,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Aluminum Oxide",
+      "wheel_type": "",
+      "abrasive_type": "Unitized Wheel",
+      "max_rpm": "10000.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-66261055372",
+    "sku": "66261055372",
+    "title": "Norton® 8\" X 3\" X 1\" Medium Grade Silicon Carbide Bear-Tex® Series 1000 Convolute Wheel/Surface Finishing Wheel",
+    "brand": "Norton®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 724.92,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Silicon Carbide",
+      "wheel_type": "",
+      "abrasive_type": "Convolute Wheel | Surface Finishing Wheel",
+      "max_rpm": "4500.0"
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-64006958 ",
+    "sku": "64006958 ",
+    "title": "Radnor® SD-1L6SC 1/4\" X 7/32\" Ball Shape Single Cut Carbide Burr",
+    "brand": "Radnor®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 300.92,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Carbide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-64006906 ",
+    "sku": "64006906 ",
+    "title": "Radnor® SC-5DC 1/2\" X 1\" Cylindrical Double Cut Carbide Burr",
+    "brand": "Radnor®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 717.83,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Carbide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-64006915",
+    "sku": "64006915",
+    "title": "Radnor® SF-5DC 1/2\" X 1\" Radius Tree Shape Double Cut Carbide Burr",
+    "brand": "Radnor®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 763.95,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Carbide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-64006918",
+    "sku": "64006918",
+    "title": "Radnor® SG-5DC 1/2\" X 1\" Pointed Tree Shape Double Cut Carbide Burr",
+    "brand": "Radnor®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 431.62,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Carbide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-64006949",
+    "sku": "64006949",
+    "title": "Radnor® SC-3L6DC 3/8\" X 3/4\" Cylindrical - Radius End Double Cut Carbide Burr",
+    "brand": "Radnor®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 574.33,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Carbide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/radnor-64007337",
+    "sku": "64007337",
+    "title": "Radnor® SG-5L6DC 1/2\" X 1\" Pointed Tree Shape Double Cut Carbide Burr",
+    "brand": "Radnor®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 140.63,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Carbide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/mastercut-SA-5DC",
+    "sku": "SA-5DC",
+    "title": "Mastercut SA-5DC 1/2\" X 1\" Cylindrical - No End Cut Double Cut Carbide Burr",
+    "brand": "Mastercut",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 144.22,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Carbide",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/mastercut-SETM100PSC",
+    "sku": "SETM100PSC",
+    "title": "Mastercut SETM100PSC 12 Piece Assortment Single Cut Alumacut Burr (In Plastic Box)",
+    "brand": "Mastercut",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 251.58,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Alumacut",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/mastercut-POUCH-NL2FM",
+    "sku": "POUCH-NL2FM",
+    "title": "Mastercut POUCH-NL2FM 4 Piece Assortment Single Cut Alumacut Burr (In Power Pouch)",
+    "brand": "Mastercut",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 119.89,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Alumacut",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/norton-63642543704",
+    "sku": "63642543704",
+    "title": "Norton® 8\" SPEED-GRIP® Polyurethane Foam Backing Pad (For Use With Paper Discs And Random Orbital Sanders)",
+    "brand": "Norton®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 629.23,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "8\"",
+      "thickness": "",
+      "arbor": "5/16\" - 24",
+      "grit": "",
+      "material": "Polyurethane Foam",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-Z0202",
+    "sku": "Z0202",
+    "title": "FlexOVit™ 6\" Steel Mandrel Adapter",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 328.31,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "6\"",
+      "thickness": "",
+      "arbor": "1/4\" - 3/8\"",
+      "grit": "",
+      "material": "Steel",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/flexovit-Z0303",
+    "sku": "Z0303",
+    "title": "FlexOVit™ 5\" Steel Adapter Flange Kit",
+    "brand": "FlexOVit™",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 276.74,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "1/2\" - 3/8\"",
+      "grit": "",
+      "material": "Steel",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-95018",
+    "sku": "95018",
+    "title": "United Abrasives 7\" Spiralcool™ Rubber Backing Pad",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 37.64,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "7\"",
+      "thickness": "",
+      "arbor": "5/8\" - 11",
+      "grit": "",
+      "material": "Rubber",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/united-abrasives-95040",
+    "sku": "95040",
+    "title": "United Abrasives 1/2\" Steel Center Nut",
+    "brand": "United Abrasives",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 430.23,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "1/2\"",
+      "thickness": "",
+      "arbor": "5/8\" - 11",
+      "grit": "",
+      "material": "Steel",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/3m-60440241234",
+    "sku": "60440241234",
+    "title": "3M™ 5\" STIKIT™ Foam Backing Pad",
+    "brand": "3M™",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 381.2,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "5/16\" - 24",
+      "grit": "",
+      "material": "Foam",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/milwaukee-49-36-3450",
+    "sku": "49-36-3450",
+    "title": "Milwaukee® 4 1/2\" Polypropylene Backing Pad Kit",
+    "brand": "Milwaukee®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 773.9,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "1/2\" - 13",
+      "grit": "",
+      "material": "Polypropylene",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/metabo-623283000",
+    "sku": "623283000",
+    "title": "Metabo® 4 1/2\" Fibre Backing Pad",
+    "brand": "Metabo®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 266.06,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "5/8\" - 11",
+      "grit": "",
+      "material": "Fibre",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/bosch-MG0450",
+    "sku": "MG0450",
+    "title": "Bosch 4 1/2\" Rubber Backing Pad",
+    "brand": "Bosch",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 493.13,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "5/8\" - 11",
+      "grit": "",
+      "material": "Rubber",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/dewalt-DW4945",
+    "sku": "DW4945",
+    "title": "DeWALT® 4 1/2\" Rubber Backing Pad",
+    "brand": "DeWALT®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 404.88,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "4 1/2\"",
+      "thickness": "",
+      "arbor": "5/8\" - 11",
+      "grit": "",
+      "material": "Rubber",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/merit-08834164922",
+    "sku": "08834164922",
+    "title": "Merit® 2\" Rubber Holder",
+    "brand": "Merit®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 342.46,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "2\"",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Rubber",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/standard-abrasives-66000003021",
+    "sku": "66000003021",
+    "title": "Standard Abrasives™ 5\" Fibre Holder Pad",
+    "brand": "Standard Abrasives™",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 401.94,
+    "currency": "USD",
+    "in_stock": false,
+    "technical_specs": {
+      "diameter": "5\"",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Fibre",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  },
+  {
+    "documentId": "https://www.industrial-supply.com/product/weiler-56490",
+    "sku": "56490",
+    "title": "Weiler® 1\" Steel Mounting Mandrel",
+    "brand": "Weiler®",
+    "category_path": [
+      "Other Abrasive Products"
+    ],
+    "price": 162.23,
+    "currency": "USD",
+    "in_stock": true,
+    "technical_specs": {
+      "diameter": "1\"",
+      "thickness": "",
+      "arbor": "",
+      "grit": "",
+      "material": "Steel",
+      "wheel_type": "",
+      "abrasive_type": "",
+      "max_rpm": ""
+    }
+  }
+]
